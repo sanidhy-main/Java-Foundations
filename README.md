@@ -84,12 +84,15 @@ The goal here is recognition and comfort, not mastery.
 - Queue
 - Deque
 
+The goal here is to make things simpler when starting DSA.
+
 🧠 Notes
 - This repo is updated gradually, not all at once
 - Commits reflect learning progress, not milestones
 - Code prioritizes readability over cleverness
 
 📌 Why this repo exists
+
 This repository exists so that:
 - Java never becomes a bottleneck later
 - DSA focuses on thinking, not syntax
