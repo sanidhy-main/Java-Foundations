@@ -106,6 +106,3 @@ This repository exists so that:
 ✍️ Author
 - Maintained by Sanidhy
 - Learning Java with long-term backend and systems goals in mind.
-git add README.md
-git commit -m "Add README describing Java foundations roadmap"
-git push
