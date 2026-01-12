@@ -34,7 +34,7 @@ java-foundations/
 │   └── ExceptionsDemo.java
 │
 ├── 02_oop/
-│   ├── ClassesObjectsDemo.java
+│   ├── ClassDemo.java
 │   ├── ConstructorsDemo.java
 │   ├── ThisKeywordDemo.java
 │   ├── EncapsulationDemo.java
