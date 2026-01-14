@@ -29,9 +29,9 @@ class PolymorphismDemo {
     }
 
     public static void main(String[] args) {
-        PaymentMethod p1 = new CardPayment();
-        PaymentMethod p2 = new UPIPayment();
-        PaymentMethod p3 = new CashPayment();
+        PaymentMethod p1 = new CardPaymentMethod();
+        PaymentMethod p2 = new UPIPaymentMethod();
+        PaymentMethod p3 = new CashPaymentMethod();
 
         processPayment(p1, 500);
         processPayment(p2, 1200);
