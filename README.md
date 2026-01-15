@@ -42,7 +42,7 @@ java-foundations/
 │   ├── InheritanceDemo.java
 │   ├── PolymorphismDemo.java
 │   ├── AbstractionDemo.java
-│   └── InterfacetDemo.java
+│   └── InterfaceDemo.java
 |
 ├── 03_file_handling/
 │   ├── ReadWriteFileDemo.java
