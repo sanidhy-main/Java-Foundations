@@ -41,12 +41,19 @@ java-foundations/
 │   ├── StaticDemo.java
 │   ├── InheritanceDemo.java
 │   ├── PolymorphismDemo.java
-│   ├── InterfacesAbstractDemo.java
-│   └── ObjectLifecycleDemo.java
+│   └── InterfacesAbstractDemo.java
 |
 ├── 03_file_handling/
 │   ├── ReadWriteFileDemo.java
 │   └── JSONStorageDemo.java
+|
+├── 04_collections/
+│   ├── ArraysListDemo.java
+│   ├── HashMapDemo.java
+│   ├── HashSetDemo.java
+│   ├── StackDemo.java
+│   ├── QueueDemo.java
+│   └── DequeueDemo.java
 |
 └── README.md
 ```
