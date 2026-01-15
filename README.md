@@ -46,7 +46,9 @@ java-foundations/
 |
 ├── 03_file_handling/
 │   ├── ReadWriteFileDemo.java
-│   └── JSONStorageDemo.java
+│   ├── example.txt
+│   ├── JSONStorageDemo.java
+│   └── todo.json
 |
 ├── 04_collections/
 │   ├── ArraysListDemo.java
