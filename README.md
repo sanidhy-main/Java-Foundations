@@ -41,7 +41,8 @@ java-foundations/
 │   ├── StaticDemo.java
 │   ├── InheritanceDemo.java
 │   ├── PolymorphismDemo.java
-│   └── InterfacesAbstractDemo.java
+│   ├── AbstractionDemo.java
+│   └── InterfacetDemo.java
 |
 ├── 03_file_handling/
 │   ├── ReadWriteFileDemo.java
