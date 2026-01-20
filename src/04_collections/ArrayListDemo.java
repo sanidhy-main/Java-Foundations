@@ -3,7 +3,7 @@ import java.util.ArrayList;
 class ArrayListDemo {
     public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<>();
-        // ArrayList<DataType> = new ArrayList<>();
+        // ArrayList<DataType> (name) = new ArrayList<>();
 
         names.add("Alex");
         names.add("Sanidhy");
