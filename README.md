@@ -56,7 +56,7 @@ java-foundations/
 │   ├── HashSetDemo.java
 │   ├── StackDemo.java
 │   ├── QueueDemo.java
-│   └── DequeueDemo.java
+│   └── DequeDemo.java
 |
 └── README.md
 ```
